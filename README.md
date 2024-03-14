@@ -6,7 +6,7 @@
    
    SELECT * FROM customers;
 
-2.Show total number of customers
+2. Show total number of customers
 
    SELECT count(*) FROM customers;
 
